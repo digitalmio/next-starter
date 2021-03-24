@@ -4,9 +4,5 @@ module.exports = {
   },
   smtp: {
     host: 'in-v3.mailjet.com',
-    auth: {
-      user: '9f51c7c9ae5d8aa5278b2d6a6c8dc66e',
-      pass: '2b6117fd798268173b41982d69f91513',
-    }
   }
 }
